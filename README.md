@@ -1,6 +1,6 @@
 # <p align="center">🍕 Pizza Fleet</p>
 
-<p align="center"><img src="https://github.com/ilyasbelfar/Pizza-Fleet/blob/main/images/Capture_PizzaFleet.PNG" alt="Pizza Fleet Capture" style="max-width: 100% !important"></p>
+<p align="center"><img src="https://github.com/followDev/mern-pizza/blob/main/images/Capture_PizzaFleet.PNG" alt="Pizza Fleet Capture" style="max-width: 100% !important"></p>
 <p align="center">✨🚀<em>Pizza Fleet is a pizza delivery web application that allows customers to order pizzas online. The application also allows customers to manage their profile, view their orders history and shipping addresses, and switch between light and dark mode. It is built using modern web technologies and provides an intuitive and easy-to-use interface for customers to order their favorite pizzas.
 <br>
 Built from scratch with MERN Stack (ReactJS, NodeJS, ExpressJS, MongoDB).</em>✨🚀</p>
@@ -54,7 +54,7 @@ Built from scratch with MERN Stack (ReactJS, NodeJS, ExpressJS, MongoDB).</em>�
 <p align="center"><strong>1- Clone this repo.</strong></p>
 
 ```
-git clone https://github.com/ilyasbelfar/Pizza-Fleet.git
+git clone https://github.com/followDev/mern-pizza
 cd Pizza-Fleet
 ```
 
@@ -102,8 +102,8 @@ npm start
 <br>
 <p align="center">I encourages contributions! Feel free to discuss any bug fixes/features in the issues section. And if you wish to work on this project:</p>
 
-1. Fork [this project](https://github.com/ilyasbelfar/Pizza-Fleet)
+1. Fork [this project](https://github.com/followDev/mern-pizza)
 2. Create a branch (`git checkout -b new-branch`)
 3. Commit your changes (`git commit -am 'add new feature'`)
 4. Push to the branch (`git push origin new-branch`)
-5. [Submit a pull request!](https://github.com/ilyasbelfar/Pizza-Fleet/pull/new/master)
+5. [Submit a pull request!](https://github.com/followDev/mern-pizza/pull/new/master)
